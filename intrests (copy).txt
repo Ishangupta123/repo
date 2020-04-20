@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My portfolio website</title>
+	<link rel="stylesheet" type="text/css" href="int.css">
+	<link href="https://fonts.googleapis.com/css2?family=Philosopher&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Lobster+Two:ital,wght@1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header class="tm-head">
+		<img src="/home/ishan/Desktop/download.jpeg" alt="ishan logo" height="50px" width="120px" class="tm-logo">
+		<nav class="tm-nav">
+			<ul>
+				<li><a href="contact.html">CONTACT</a></li>
+				<li><a href="achievements.html">ACHIEVEMENTS</a></li>
+				<li><a href="intrests.html">CURIOSITIES</a></li>
+				<li><a href="assignment.html">HOME</a></li>
+			</ul>
+		</nav>
+	</header>
+	<section>
+		<h2 class="tm-int">I am always eager to learn new things but some of the things that really fasinates me are</h2>
+		<ul class="tm-in">
+			<li>Learning new things</li>
+			<li>Playing Synthesizer</li>
+			<li>Playing Badminton</li>
+			<li>community service</li>
+		</ul>
+	</section>
+</body>
+</html>

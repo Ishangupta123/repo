@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>My portfolio website</title>
+		<link rel="stylesheet" type="text/css" href="home.css">
+		<link href="https://fonts.googleapis.com/css2?family=Philosopher&display=swap" rel="stylesheet">
+	    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Lobster+Two:ital,wght@1,700&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<header class="tm-head">
+			<img src="/home/ishan/Desktop/download.jpeg" alt="ishan logo" height="50px" width="120px" class="tm-logo">
+			<nav class="tm-nav">
+				<ul>
+					<li><a href="contact.html">CONTACT</a></li>
+					<li><a href="achievements.html">ACHIEVEMENTS</a></li>
+					<li><a href="intrests.html">CURIOSITIES</a></li>
+					<li><a href="assignment.html">HOME</a></li>
+				</ul>
+			</nav>
+		</header>
+		<div class="tm-cont">
+			<img src="/home/ishan/Desktop/IMG_20200125_221957.jpg" height="246px" width="200px" class="tm-img">
+		</div>
+		<h3 class="tm-l"> HI,<br> <nav class="tm-m">I AM ISHAN GUPTA</nav></h3>
+		<p class="tm-p">I am first year under graduate studen of the department of Biotechnology. I am the </p>
+		 <p class="tm-p">border of Rajendra Prasad Hall Of Residence.</p>
+		 	<div class="dropdown-menu">
+            <input type="checkbox" id="menu" />
+            <label for="menu">Sourse-code</label>
+            <div class="menu-content">
+                <ul>
+                    <li><a href="/opt/lampp/htdocs/achievements (copy).txt">HTML FILE</a></li>
+                    	<ol>
+                    		<li><a href="/opt/lampp/htdocs/achievements (copy).txt">HOME</a></li>
+                    		<li><a href="#">sdfadsa</a></li>
+                    		<li><a href="#">sdfadsa</a></li>
+                    		<li><a href="#">sdfadsa</a></li>
+                    	</ol>
+                    <li><a href="/opt/lampp/htdocs/achievement.css">CSS FILE</a></li>
+                </ul>
+            </div>
+		<nav class="tm-copy">
+			<center>&copy; Copyright Ishan Gupta 2020</center>
+		</nav>
+	</body>
+	</html>

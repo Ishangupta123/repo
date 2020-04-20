@@ -1,0 +1,131 @@
+*{margin: 0px;
+padding: 0px;}
+ol, ul{
+	font-family: 'Philosopher', sans-serif;
+	text-decoration: none;
+}
+body {background-image: url("/home/ishan/Desktop/86220405-red-vector-flat-design-background-interests-it-is-well-adapted-for-web-design-.jpg"); background-size: cover; background-repeat: no-repeat;}
+.tm-nav ul li a{
+	padding: 10px 20px;
+	color: white;
+	text-decoration: none;
+	line-height: 50px;
+}
+.tm-nav ul li{
+	display: inline-block;
+	float: right;
+}
+.tm-nav ul li a:hover{
+	color: red;
+}
+.tm-head::after{
+	content: " ";
+	clear: both;
+	display: block;
+	visibility: none;
+}
+.tm-logo{
+	float: left;
+	padding-left: 10px;
+}
+.tm-head{
+	border-style: inset;
+	border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	background: linear-gradient(90deg, white, black);
+}
+.tm-img{
+	margin-left: 30px;
+	margin-top: 40px;
+	box-shadow: 10px 10px 10px grey;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 10px; 
+}
+.tm-nav ul li ul li{
+	float: left;
+	display: none;
+}
+.tm-nav ul li:hover ul li{
+	display: block;
+	clear: both;
+}
+.tm-l{
+		padding-top: 150px;
+        margin-left: 100px;
+        font-size: 35px;
+        display: inline-block;
+}
+h3{
+	color: grey;
+	font-family: 'Lobster Two', cursive;
+}
+.tm-copy{
+	padding-top: 220px;
+	color: white;
+}
+.tm-cont{
+	float: left;
+}
+.tm-m{
+	padding-left: 40px;
+}
+.tm-p{
+	padding-top: 20px;
+    color: grey;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lobster Two', cursive;
+}
+.tm-int{
+	color: black;
+	font-family: 'Lobster Two', cursive;
+	padding-left: 150px;
+	padding-top: 100px;
+	font-size: 40px;
+}
+.tm-in{
+	color: black;
+	font-family: 'Lobster Two', cursive;
+	padding-left: 170px;
+	padding-top: 0px;
+	font-size: 20px;
+}
+.tm-ac{
+	color: white;
+	font-family: 'Lobster Two', cursive;
+	padding-left: 170px;
+	padding-top: 30px;
+	font-size: 30px;
+	margin: 150px;
+}
+.tm-ac ul li{
+  margin: 20px 0;
+}
+.tm-sou{
+	padding: 50px;
+	margin-left: 30px;
+}
+.tm-fb{
+	margin-top: 50px;
+	margin-left: 250px;
+	margin-bottom: 100px;
+	padding-left: 0px;
+}
+.tm-wh{
+	margin-top: 50px;
+	margin-left: 280px;
+	margin-bottom: 100px;
+	padding-left: 0px
+}
+.tm-in{
+	margin-top: 50px;
+	margin-left: 130px;
+	margin-bottom: 100px;
+}
+.tm-co{
+	color: white;
+	font-family: 'Lobster Two', cursive;
+	font-size: 30px;
+	padding-left: 240px;
+	padding-top: 150px;
+}
